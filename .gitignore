@@ -1,0 +1,10 @@
+gen/
+bin/
+Thumbs.db
+proguard/dump.txt
+proguard/mapping.txt
+proguard/seeds.txt
+proguard/usage.txt
+log.txt
+.idea/
+*.iml
